@@ -1,0 +1,16 @@
+*{
+ width: 90%;
+ margin: auto;
+ padding: 0,25%;
+ /*overflow-y: hidden;*/
+}
+
+ .Etiquetas {
+  color:red;
+ }
+ .fondo{
+    /*background-color: aquamarine;*/
+    background-image:url(../img/2c99ea542d543ebcb5267b0bca1f9ab9.jpg);
+    /*background-image: url(https://i.pinimg.com/originals/2c/99/ea/2c99ea542d543ebcb5267b0bca1f9ab9.jpg);*/
+ }
+/*p*/
